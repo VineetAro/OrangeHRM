@@ -42,7 +42,7 @@ public class TC9 {
 	// Login and retrieve the emergency contacts for the user
 
 	@Test
-	public void f() throws IOException, InterruptedException {
+	public void getContact() throws  InterruptedException {
 
 // Login using new User
 
